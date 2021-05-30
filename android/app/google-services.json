@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255333408128",
+    "project_id": "quizmaker-e4ad7",
+    "storage_bucket": "quizmaker-e4ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255333408128:android:28ff27f0e4a62be9ec7565",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255333408128-b4b1c8699s42sf3dks23069t0fefhc21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4QOM5jYS2I6wHIoZApGBEYWNNZDICTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255333408128-b4b1c8699s42sf3dks23069t0fefhc21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
